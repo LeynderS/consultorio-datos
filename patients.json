@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nombres": "Carlos",
+    "apellidos": "López",
+    "fechaNacimiento": "1985-04-12",
+    "sexo": "Masculino",
+    "email": "carlos.lopez@example.com",
+    "celular": "0991111111",
+    "tipoSangre": "O+",
+    "fechaRegistro": "2025-06-01"
+  },
+  {
+    "id": 2,
+    "nombres": "María",
+    "apellidos": "Pérez",
+    "fechaNacimiento": "1990-07-08",
+    "sexo": "Femenino",
+    "email": "maria.perez@example.com",
+    "celular": "0992222222",
+    "tipoSangre": "A+",
+    "fechaRegistro": "2025-06-01"
+  },
+  {
+    "id": 3,
+    "nombres": "Juan",
+    "apellidos": "Martínez",
+    "fechaNacimiento": "1980-10-25",
+    "sexo": "Masculino",
+    "email": "juan.martinez@example.com",
+    "celular": "0993333333",
+    "tipoSangre": "B-",
+    "fechaRegistro": "2025-06-01"
+  },
+  {
+    "id": 4,
+    "nombres": "Ana",
+    "apellidos": "González",
+    "fechaNacimiento": "1995-01-15",
+    "sexo": "Femenino",
+    "email": "ana.gonzalez@example.com",
+    "celular": "0994444444",
+    "tipoSangre": "AB+",
+    "fechaRegistro": "2025-06-01"
+  },
+  {
+    "id": 5,
+    "nombres": "Luis",
+    "apellidos": "Torres",
+    "fechaNacimiento": "1975-03-22",
+    "sexo": "Masculino",
+    "email": "luis.torres@example.com",
+    "celular": "0995555555",
+    "tipoSangre": "O-",
+    "fechaRegistro": "2025-06-01"
+  },
+  {
+    "id": 6,
+    "nombres": "Patricia",
+    "apellidos": "Ramírez",
+    "fechaNacimiento": "1988-06-30",
+    "sexo": "Femenino",
+    "email": "patricia.ramirez@example.com",
+    "celular": "0996666666",
+    "tipoSangre": "A-",
+    "fechaRegistro": "2025-06-01"
+  },
+  {
+    "id": 7,
+    "nombres": "José",
+    "apellidos": "Castillo",
+    "fechaNacimiento": "1992-12-11",
+    "sexo": "Masculino",
+    "email": "jose.castillo@example.com",
+    "celular": "0997777777",
+    "tipoSangre": "B+",
+    "fechaRegistro": "2025-06-01"
+  },
+  {
+    "id": 8,
+    "nombres": "Gabriela",
+    "apellidos": "Morales",
+    "fechaNacimiento": "1983-09-05",
+    "sexo": "Femenino",
+    "email": "gabriela.morales@example.com",
+    "celular": "0998888888",
+    "tipoSangre": "AB-",
+    "fechaRegistro": "2025-06-01"
+  },
+  {
+    "id": 9,
+    "nombres": "Ricardo",
+    "apellidos": "Sánchez",
+    "fechaNacimiento": "1978-02-17",
+    "sexo": "Masculino",
+    "email": "ricardo.sanchez@example.com",
+    "celular": "0999999999",
+    "tipoSangre": "O+",
+    "fechaRegistro": "2025-06-01"
+  },
+  {
+    "id": 10,
+    "nombres": "Laura",
+    "apellidos": "Vega",
+    "fechaNacimiento": "1997-08-21",
+    "sexo": "Femenino",
+    "email": "laura.vega@example.com",
+    "celular": "0980000000",
+    "tipoSangre": "A+",
+    "fechaRegistro": "2025-06-01"
+  }
+]
