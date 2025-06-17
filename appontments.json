@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "pacienteId": 1,
+    "pacienteNombre": "Carlos López",
+    "fechaHora": "2025-06-20T10:30",
+    "razon": "Control de presión arterial"
+  },
+  {
+    "id": 2,
+    "pacienteId": 2,
+    "pacienteNombre": "María Pérez",
+    "fechaHora": "2025-06-21T11:00",
+    "razon": "Chequeo general"
+  },
+  {
+    "id": 3,
+    "pacienteId": 3,
+    "pacienteNombre": "Juan Martínez",
+    "fechaHora": "2025-06-22T09:00",
+    "razon": "Consulta por dolor de espalda"
+  },
+  {
+    "id": 4,
+    "pacienteId": 4,
+    "pacienteNombre": "Ana González",
+    "fechaHora": "2025-06-22T14:00",
+    "razon": "Examen de laboratorio"
+  },
+  {
+    "id": 5,
+    "pacienteId": 5,
+    "pacienteNombre": "Luis Torres",
+    "fechaHora": "2025-06-23T13:00",
+    "razon": "Evaluación de diabetes"
+  },
+  {
+    "id": 6,
+    "pacienteId": 6,
+    "pacienteNombre": "Patricia Ramírez",
+    "fechaHora": "2025-06-23T15:30",
+    "razon": "Control post-operatorio"
+  },
+  {
+    "id": 7,
+    "pacienteId": 7,
+    "pacienteNombre": "José Castillo",
+    "fechaHora": "2025-06-24T09:30",
+    "razon": "Consulta pediátrica"
+  },
+  {
+    "id": 8,
+    "pacienteId": 8,
+    "pacienteNombre": "Gabriela Morales",
+    "fechaHora": "2025-06-24T11:15",
+    "razon": "Revisión de resultados"
+  },
+  {
+    "id": 9,
+    "pacienteId": 9,
+    "pacienteNombre": "Ricardo Sánchez",
+    "fechaHora": "2025-06-25T10:00",
+    "razon": "Chequeo por hipertensión"
+  },
+  {
+    "id": 10,
+    "pacienteId": 10,
+    "pacienteNombre": "Laura Vega",
+    "fechaHora": "2025-06-25T12:45",
+    "razon": "Dolor de cabeza crónico"
+  }
+]
